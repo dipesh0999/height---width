@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+.pixels{
+    border: 2px solid black;
+    width: 200px;
+    height: 150px;
+    background-color: brown;
+    color: bisque;
+    padding: 22px;
+}
+.percent{
+    border: 2px solid black;
+    width: 80%;
+    height: 120%;
+    background-color: brown;
+    color: bisque;
+    padding: 22px;
+}
+.viewport{
+    border: 2px solid black;
+    width: 15vw;
+    height: 10vh;
+    background-color: brown;
+    color: bisque;
+    padding: 22px;
+}
