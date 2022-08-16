@@ -1,6 +1,7 @@
 *{
     margin:0;
     padding:0;
+    box-sizing:border-box;
 }
 body{
     background-color: bisque;
@@ -11,6 +12,7 @@ body{
     height: 150px;
     background-color: brown;
     color: bisque;
+    margin:10px;
     padding: 22px;
 }
 .percent{
