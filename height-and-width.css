@@ -21,6 +21,7 @@ body{
     height: 120%;
     background-color: brown;
     color: bisque;
+    margin:10px;
     padding: 22px;
 }
 .viewport{
@@ -29,5 +30,6 @@ body{
     height: 10vh;
     background-color: brown;
     color: bisque;
+    margin:10px;
     padding: 22px;
 }
